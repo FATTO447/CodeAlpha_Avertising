@@ -22,3 +22,5 @@ The app doesn't just predict; it prescribes. By defining a total budget constrai
 - `*.pkl`: Pre-trained models and scalers.
 - `AD.csv`: Historical advertising data.
 - `Ad.ipynb` : Notebook with the full work
+
+link : https://codealphaavertising-euqtzupv2aqkj96yzmwx8k.streamlit.app/ 
